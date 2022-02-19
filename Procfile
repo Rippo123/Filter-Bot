@@ -1,1 +1,1 @@
- /bin/bash /start.sh
+python3 bot.py
