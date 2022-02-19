@@ -54,6 +54,7 @@ def vercheck() -> str:
 SOURCE_STRING = """
 ☹️*Sorry Broh*
 """
+DEVELOPER = @Bad_Bunny_444
 
 
 IMPORTED = {}
